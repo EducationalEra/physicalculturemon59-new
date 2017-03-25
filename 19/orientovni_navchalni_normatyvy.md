@@ -64,7 +64,7 @@
 <td align="center">37</td>
 </tr>
 <tr class="even">
-<td rowspan="2">Бігова імітація «конверт», (с)</td>
+<td rowspan="2">Бігова імітація «конверт»*, (с)</td>
 <td align="center">Хл.</td>
 <td align="center">40</td>
 <td align="center">37</td>
@@ -116,7 +116,7 @@
 <td align="center">2</td>
 <td align="center">3</td>
 <td align="center">4</td>
-<td align="center">5</td>
+<td align="center">6</td>
 </tr>
 <tr class="odd">
 <td align="center">Дівч.</td>
@@ -162,17 +162,22 @@
 <td align="center">1</td>
 <td align="center">2</td>
 <td align="center">3</td>
-<td align="center">4</td>
+<td align="center">6</td>
 </tr>
 <tr class="odd">
 <td align="center">Дівч.</td>
 <td align="center">Жодного влучного удару</td>
 <td align="center">1</td>
 <td align="center">2</td>
-<td align="center">3</td>
+<td align="center">4</td>
 </tr>
 </tbody>
 </table>
+
+*Вправа виконується послідовно без зупинок.
+
+Учень стоїть на своїй половині в центрі майданчика обличчям до сітки. За командою про початок виконання вправи учитель накидає волан над учнем, який ударом зверху перебиває волан на сторону суперника. Учитель зразу же накидає волан у лівий передній кут майданчика. Учень в кроці (випаді) відбиває волан ударом знизу і вертається   у вихідне положення (в центр майданчика); учитель накидає м’яч у правий передній кут майданчика, учень  повторює дію  перебиваючи   волан на сторону суперника,  та вертаючись у вихідне положення. Учитель накидає волан в правий  задній кут учень  виконує дію  перебиваючи   волан  ударом зверху на сторону суперника,  та вертаючись у вихідне положення, учитель накидає волан у лівий задній кут, учень  повторює дію  перебиваючи   волан ударом зверху  на сторону суперника,  та вертаючись у вихідне положення.
+
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

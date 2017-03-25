@@ -6,12 +6,8 @@
 <table>
   <body>
     <tr>
-      <td width="40%" align="center">
-        <b>Зміст навчального матеріалу</b>
-      </td>
-      <td width="60%" align="center" valign="top">
-        <b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b>
-      </td>
+<td align="center" width="60%"><strong>Очікувані результати навчально-пізнавальної діяльності учнів</strong></td>
+<td align="center" width="40%"><strong>Зміст навчального матеріалу</strong></td>
     </tr>
 
     <tr>

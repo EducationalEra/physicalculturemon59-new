@@ -1,58 +1,17 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Обладнання, потрібне для вивчення модуля «Бадмінтон»
+# Обладнання, яке необхідне для вивчення модулю «Бадмінтон»
 
-### (За наявности спортивного залу із розміткою майданчиків для гри у бадмінтон)
+1.	Спортивний зал із розміткою майданчиків для гри у бадмінтон.
+2.	Бадмінтоні сітки – одна на кожен майданчик.
+3.	Бадмінтоні стійки – по дві на кожен майданчик.
+4.	Бадмінтоні ракетки – одна для кожного учня.
+5.	Волани – один на кожного учня.
+6.	Скакалки – одна на кожного учня.
+7.	Гімнастичні лави – одна на 7-8 учнів.
+8.	Тенісні м’ячі – один  на кожного учня.
+9.	Набивні м’ячі (0,5 – 2 кг) – один  на двох учнів.
 
-<table>
-<tbody>
-<tr>
-<td align="center"><b>№ пор.</b></td>
-<td align="center"><b>Обладнання</b></td>
-<td align="center"><b>Кількість,</b> шт.</td>
-</tr>
-<tr class="odd">
-<td align="center">1</td>
-<td>Сітка для бадмінтону</td>
-<td align="center">1 (на майданчик)</td>
-</tr>
-<tr class="even">
-<td align="center">2</td>
-<td>Бадмінтонний стояк</td>
-<td align="center">2 (на майданчик)</td>
-</tr>
-<tr class="odd">
-<td align="center">3</td>
-<td>Ракетка для бадмінтону</td>
-<td align="center">1 (на учня)</td>
-</tr>
-<tr class="even">
-<td align="center">4</td>
-<td>Волан</td>
-<td align="center">1 (на учня)</td>
-</tr>
-<tr class="odd">
-<td align="center">5</td>
-<td>Скакалка</td>
-<td align="center">1 (на учня)</td>
-</tr>
-<tr class="even">
-<td align="center">6</td>
-<td>Гімнастична лава</td>
-<td align="center">1 (на 7–8 учнів)</td>
-</tr>
-<tr class="odd">
-<td align="center">7</td>
-<td>М’яч тенісний</td>
-<td align="center">1 (на учня)</td>
-</tr>
-<tr class="even">
-<td align="center">8</td>
-<td>М’яч набивний (0,5–2 кг)</td>
-<td align="center">1 (на 2 учні)</td>
-</tr>
-</tbody>
-</table>
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

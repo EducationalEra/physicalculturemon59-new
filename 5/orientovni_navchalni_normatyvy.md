@@ -18,7 +18,7 @@
 </tr>
 <tr class="even">
 <td rowspan="4" align="center"><b>1 рік вивчення</b></td>
-<td rowspan="2">Передача (кидок) ганд-больного м’яча на дальність (м)</td>
+<td rowspan="2">Передача (кидок) гандбольного м’яча на дальність (м)</td>
 <td align="center">Хл.</td>
 <td align="center">До 11</td>
 <td align="center">11</td>

@@ -1,13 +1,13 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-Контрольні навчальні нормативи
+Навчальні нормативи
 =============================
 
 <table>
 <tbody>
 <tr>
 <td rowspan="2" align="center"><b>Рік вивчення</b></td>
-<td rowspan="2" colspan="2" align="center"><b>Контрольні навчальні нормативи</b></td>
+<td rowspan="2" colspan="2" align="center"><b>Навчальні нормативи</b></td>
 <td colspan="4" align="center"><b>Рівень навчальних нормативів</b></td>
 </tr>
 <tr class="odd">

@@ -25,6 +25,12 @@
 	<li role="presentation"><a href="#menu18" aria-controls="menu3" role="tab" data-toggle="tab">Бадмінтон</a></li>
 	<li role="presentation"><a href="#menu19" aria-controls="menu3" role="tab" data-toggle="tab">Хортинг</a></li>
 	<li role="presentation"><a href="#menu20" aria-controls="menu3" role="tab" data-toggle="tab">Аеробіка</a></li>
+	<li role="presentation"><a href="#menu21" aria-controls="menu3" role="tab" data-toggle="tab">Бадмінтон</a></li>
+	<li role="presentation"><a href="#menu23" aria-controls="menu3" role="tab" data-toggle="tab">Регбі</a></li>
+	<li role="presentation"><a href="#menu24" aria-controls="menu3" role="tab" data-toggle="tab">Петанк</a></li>
+	<li role="presentation"><a href="#menu25" aria-controls="menu3" role="tab" data-toggle="tab">Корфбол</a></li>
+	<li role="presentation"><a href="#menu26" aria-controls="menu3" role="tab" data-toggle="tab">Фехтування</a></li>
+	<li role="presentation"><a href="#menu27" aria-controls="menu3" role="tab" data-toggle="tab">Військово-спортивні ігри</a></li>
   </ul>
   <!-- Tab panes -->
 	<div class="tab-content">
@@ -1007,6 +1013,98 @@
 			                </a>
 			            </li>
 			        </ul>
+			    </li>
+			</ul>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="menu23">
+			<ul class="summary" type="disc">
+			    <li class="chapter " data-level="11" data-path="23/main.html">
+			        <a href="23/main.html">
+			             Варіативний модуль. Регбі
+			        </a>
+			        <ul>
+						<li><a href="23/poyasnyuvalna_zapyska.md">Пояснювальна записка</a></li>
+						<li><a href="23/1_rik.md">1 рік вивчення</a></li>
+						<li><a href="23/2_rik.md">2 рік вивчення</a></li>
+						<li><a href="23/3_rik.md">3 рік вивчення</a></li>
+						<li><a href="23/4_rik.md">4 рік вивчення</a></li>
+						<li><a href="23/5_rik.md">5 рік вивчення</a></li>
+						<li><a href="23/orientovni_navchalni_normatyvy.md">Орієнтовні навчальні нормативи</a></li>
+					</ul>
+			    </li>
+			</ul>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="menu24">
+			<ul class="summary" type="disc">
+			    <li class="chapter " data-level="11" data-path="27/main.html">
+			        <a href="27/main.html">
+			             Варіативний модуль. Петанк
+			        </a>
+					<ul>
+						<li><a href="27/main.md">Варіативний модуль. Петанк</a></li>
+						<li><a href="27/poyasnyuvalna_zapyska.md">Пояснювальна записка</a></li>
+						<li><a href="27/1_rik.md">1 рік вивчення</a></li>
+						<li><a href="27/2_rik.md">2 рік вивчення</a></li>
+						<li><a href="27/3_rik.md">3 рік вивчення</a></li>
+						<li><a href="27/4_rik.md">4 рік вивчення</a></li>
+						<li><a href="27/5_rik.md">5 рік вивчення</a></li>
+						<li><a href="27/orientovni_navchalni_normatyvy.md">Орієнтовні навчальні нормативи</a></li>
+					</ul>
+			    </li>
+			</ul>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="menu25">
+			<ul class="summary" type="disc">
+			    <li class="chapter " data-level="11" data-path="24/main.html">
+			        <a href="24/main.html">
+			             Варіативний модуль. Корфбол
+			        </a>
+					<ul>
+						<li><a href="24/main.md">Варіативний модуль. Корфбол</a></li>
+						<li><a href="24/poyasnyuvalna_zapyska.md">Пояснювальна записка</a></li>
+						<li><a href="24/1_rik.md">1 рік вивчення</a></li>
+						<li><a href="24/2_rik.md">2 рік вивчення</a></li>
+						<li><a href="24/3_rik.md">3 рік вивчення</a></li>
+						<li><a href="24/4_rik.md">4 рік вивчення</a></li>
+						<li><a href="24/5_rik.md">5 рік вивчення</a></li>
+						<li><a href="24/orientovni_navchalni_normatyvy.md">Орієнтовні навчальні нормативи</a></li>
+					</ul>
+			    </li>
+			</ul>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="menu26">
+			<ul class="summary" type="disc">
+			    <li class="chapter " data-level="11" data-path="25/main.html">
+			        <a href="25/main.html">
+			             Варіативний модуль. Фехтування
+			        </a>
+					<ul>
+					    <li><a href="25/main.md">Варіативний модуль. Фехтування</a></li>
+					    <li><a href="25/poyasnyuvalna_zapyska.md">Пояснювальна записка</a></li>
+					    <li><a href="25/1_rik.md">1 рік вивчення</a></li>
+					    <li><a href="25/2_rik.md">2 рік вивчення</a></li>
+					    <li><a href="25/3_rik.md">3 рік вивчення</a></li>
+					    <li><a href="25/4_rik.md">4 рік вивчення</a></li>
+					    <li><a href="25/5_rik.md">5 рік вивчення</a></li>
+					    <li><a href="25/orientovni_navchalni_normatyvy.md">Орієнтовні навчальні нормативи</a></li>
+					</ul>
+			    </li>
+			</ul>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="menu27">
+			<ul class="summary" type="disc">
+			    <li class="chapter " data-level="11" data-path="26/main.html">
+			        <a href="26/main.html">
+			             Варіативний модуль. Військово-спортивні ігри
+			        </a>
+					<ul>
+					    <li><a href="26/main.md">Варіативний модуль. Військово-спортивні ігри</a></li>
+					    <li><a href="26/poyasnyuvalna_zapyska.md">Пояснювальна записка</a></li>
+					    <li><a href="26/1_rik.md">1 рік вивчення</a></li>
+					    <li><a href="26/2_rik.md">2 рік вивчення</a></li>
+					    <li><a href="26/3_rik.md">3 рік вивчення</a></li>
+					    <li><a href="26/orientovni_navchalni_normatyvy.md">Орієнтовні навчальні нормативи</a></li>
+					</ul>
 			    </li>
 			</ul>
 		</div>
