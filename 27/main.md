@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-Варіативний модуль «Військово-спортивні ігри»
+Варіативний модуль «Петанк»
 =============================
 
 
